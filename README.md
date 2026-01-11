@@ -6,12 +6,11 @@
 
 <h3 align="center">A recent Final graduate aspiring to kickstart a career in Software Industry..</h3>
 
-<img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<p><img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"><p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rup-ali" />
-<img align="right" alt="code" width="400" src="https://www.gabrielcorralcardenas.com/cit82-web-technologies-lecture3/">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rup-ali" /><p>
+
 
 
 <h3 align="left">👩‍💻A Few Thicks About Me :- </h3>
