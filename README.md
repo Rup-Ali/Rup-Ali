@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rup-Ali/Rup-Ali/blob/main/Github%20banner.gif" alt="Profile Banner" width="70%">
+  <img src="https://github.com/Rup-Ali/Rup-Ali/blob/main/Github%20banner.gif" alt="Profile Banner" width="270%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rupali Samantaray!</h1>
@@ -9,14 +9,19 @@
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rup-ali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rup-ali&label=Profile%20views&color=0e75b6&style=flat" alt="rup-ali" />
+<img align="right" alt="code" width="400" src="https://www.gabrielcorralcardenas.com/cit82-web-technologies-lecture3/">
+</p>
+
 
 <h3 align="left">👩‍💻A Few Thicks About Me :- </h3>
-💡  I like to explore new develop software solutions and quick hacks.<br>
-🎓  I'm currently studying Computer Science.<br>🌱  I'm on track for learning more about Graphic Design and Web Development.
-✍️  In my free time, I Am Watching Cartoons and Playing Volleyball 🏀 Game.
-💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-✉️  You can shoot me an email at ali.rup07@gmail.com  I'll try to respond as soon as I can..!
+💡 I like to explore new develop software solutions and quick hacks.<br>
+🎓 I'm currently studying Computer Science.<br>
+🌱 I'm on track for learning more about Graphic Design and Web Development.<br>
+✍️ In my free time, I Am Watching Cartoons and Playing Volleyball 🏀 Game.<br>
+💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
+✉️ You can shoot me an email at [https://mail.ali.rup07@gmail.com ]or  linkedin :(https://www.linkedin.com/in/rupali-samantaray)<br>
+ I'll try to respond as soon as I can..!
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +38,7 @@
 <p>Problem-solving, Time Management, Friendly, Communication</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/Black Coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Black Coffee" /></a></p><br><br>
+<p><a href="https://ko-fi.com/Black Coffee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="Black Coffee" /></a></p><br><br>
 
 
 
