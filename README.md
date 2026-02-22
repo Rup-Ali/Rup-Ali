@@ -37,7 +37,7 @@
 <p>Problem-solving, Time Management, Friendly, Communication</p>
 
 <p align="center">
-  <img src="" alt="Profile Banner" width="270%">
+  <img src="https://github.com/Rup-Ali/Rup-Ali/blob/main/github-contribution-grid-snake-dark.svg" alt="Profile Banner" width="270%">
 </p>
 
 <h3 align="left">Support:</h3>
